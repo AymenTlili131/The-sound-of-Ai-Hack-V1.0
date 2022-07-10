@@ -1,0 +1,51 @@
+artist,artist popularity,name,popularity,valence,danceability,modes
+Kate Bush,82,Running Up That Hill (A Deal With God),97,0.197,0.629,0
+Joji,86,Glimpse of Us,99,0.268,0.44,1
+Harry Styles,93,As It Was,94,0.662,0.52,0
+Drake,95,Jimmy Cooks (feat. 21 Savage),92,0.366,0.529,1
+Bad Bunny,100,Me Porto Bonito,100,0.425,0.911,0
+Brent Faiyaz,77,LOOSE CHANGE,47,0.44,0.574,0
+Brent Faiyaz,77,ALL MINE,44,0.22,0.617,1
+Bad Bunny,100,Tití Me Preguntó,98,0.187,0.65,0
+Doja Cat,89,Vegas (From the Original Motion Picture Soundtrack ELVIS),90,0.74,0.801,0
+Metallica,81,Master Of Puppets,81,0.56,0.543,0
+Brent Faiyaz,77,VILLAIN'S THEME,46,0.295,0.354,1
+Post Malone,89,I Like You (A Happier Song) (with Doja Cat),92,0.472,0.733,1
+Brent Faiyaz,77,"GRAVITY (FEAT. TYLER, THE CREATOR)",42,0.491,0.541,0
+Jack Harlow,85,First Class,85,0.332,0.902,0
+Brent Faiyaz,77,PRICE OF FAME,41,0.174,0.428,1
+Lizzo,80,About Damn Time,95,0.722,0.836,0
+Kid Cudi,80,love.,35,0.344,0.574,1
+Future,87,WAIT FOR U (feat. Drake & Tems),91,0.339,0.463,1
+Glass Animals,80,Heat Waves,91,0.531,0.761,1
+Brent Faiyaz,77,HEAL YOUR HEART (INTERLUDE),44,0.204,0.287,0
+Harry Styles,93,Late Night Talking,95,0.901,0.714,1
+OneRepublic,82,I Ain't Worried,90,0.825,0.704,1
+Steve Lacy,76,Bad Habit,77,0.69,0.686,1
+Brent Faiyaz,77,GHETTO GATSBY (FEAT. ALICIA KEYS),43,0.585,0.524,0
+Bad Bunny,100,Efecto,96,0.234,0.801,0
+Morgan Wallen,83,You Proof,84,0.644,0.731,1
+Brent Faiyaz,77,ROLLING STONE,41,0.334,0.462,0
+Bad Bunny,100,Moscow Mule,97,0.292,0.804,0
+Bad Bunny,100,Ojitos Lindos,98,0.268,0.647,0
+Yung Gravy,70,Betty (Get Money),79,0.58,0.723,1
+Brent Faiyaz,77,WASTING TIME (FEAT. DRAKE & THE NEPTUNES),40,0.374,0.443,0
+Brent Faiyaz,77,FYTB (FEAT. JOONY),41,0.364,0.783,0
+Brent Faiyaz,77,ADDICTIONS (FEAT. Tre' Amani),40,0.843,0.889,0
+Nicky Youre,71,Sunroof,90,0.842,0.768,1
+Brent Faiyaz,77,DEAD MAN WALKING,36,0.435,0.51,0
+Brent Faiyaz,77,SKIT: EGOMANIAC,41,0.613,0.56,1
+Charlie Puth,83,Left and Right (Feat. Jung Kook of BTS),94,0.719,0.881,1
+Fivio Foreign,74,Paris to Tokyo,45,0.406,0.642,0
+Bad Bunny,100,Party,95,0.471,0.829,1
+Beyoncé,83,BREAK MY SOUL,91,0.853,0.687,0
+Brent Faiyaz,77,ROLE MODEL,40,0.335,0.606,0
+Bad Bunny,100,Después de la Playa,93,0.607,0.564,1
+Pharrell Williams,80,Cash In Cash Out,85,0.154,0.877,1
+Brent Faiyaz,77,JACKIE BROWN,39,0.503,0.726,1
+Cardi B,80,Hot Shit (feat. Ye & Lil Durk),80,0.523,0.878,1
+The Kid LAROI,83,STAY (with Justin Bieber),88,0.478,0.591,1
+Post Malone,89,Cooped Up (with Roddy Ricch),82,0.377,0.669,1
+Zach Bryan,78,Something in the Orange,83,0.148,0.369,0
+J. Cole,84,No Role Modelz,88,0.494,0.69,0
+Luke Combs,81,The Kind of Love We Make,74,0.464,0.608,1
